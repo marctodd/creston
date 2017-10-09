@@ -1,0 +1,48 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.07.03
+  IsProgram=1
+  TopLevelProgram=Skreens Demo CP3 v1.0.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Demo CP3 v1.0.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Demo CP3 v1.0.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Demo CP3 v1.0.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Demo CP3 v1.0.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Demo CP3 v1.0.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Control v1.1.0.umc
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Skreens Driver v1.1.ush
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=SkreensLib.clz
+  Scope=1
+  Module=Skreens Driver v1.1
+[END]
